@@ -1,0 +1,7 @@
+{
+  "obsolete": "This file is no longer used. The application has been migrated to React Native. Permissions are now declared in AndroidManifest.xml.",
+  "requestFramePermissions": [],
+  "name": "Apex Play",
+  "description": "",
+  "prompt": ""
+}
